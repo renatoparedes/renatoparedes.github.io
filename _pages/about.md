@@ -7,14 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Renato Paredes Venero currently works as a researcher, lecturer and consultant.
+I work as an Assistant Professor at the Department of Psychology of the Pontifical Catholic University of Peru (PUCP), where I lead the [Computational Cognitive Neuroscience Lab](https://www.instagram.com/neuropucp/).
 
-His focus is experimental research and computational modelling of human cognition and behaviour in neurological and psychiatric conditions.
+I study the neural basis of cognition and behaviour in neurological and psychiatric conditions through experimental research and computational modelling. My main interest is multisensory integration processes underlying bodily self alterations. I also actively collaborate in the field of human-robot interaction, focusing on the validation of emerging technologies for mental health and education.
 
-He is the author of "Experimental Research Methodology and Statistics Insights" chapter of the book "Human-Robot Interaction Evaluation Methods and Their Standardization" published by Springer.
+My work has been published in Biological Psychiatry: Cognitive Neuroscience and Neuroimaging and the International Journal of Social Robotics. I've also contributed to the book Human-Robot Interaction Evaluation Methods and Their Standardization, from the collection Springer Series on Bio- and Neurosystems. 
 
-His work has appeared in Biological Psychiatry: Cognitive Neuroscience and Neuroimaging and International Journal of Social Robotics.
+I was honored to receive the 2019 Cognitive Science MSc Dissertation Prize from the University of Edinburgh and the 2018 Excellence Scholarship “President of the Republic” from the Peruvian Ministry of Education.
 
-He received the 2019 Cognitive Science MSc Dissertation Prize (The University of Edinburgh) and the 2018 Excellence Scholarship "President of the Republic" (Peruvian Ministry of Education).
-
-He studied BA Psychology with a major in Educational Psychology at Pontifical Catholic University of Peru (Peru) and MSc Cognitive Science at The University of Edinburgh (UK). He is currently pursuing a PhD in Neuroscience at National University of Cordoba (Argentina).
+I hold a BA in Psychology with a major in Educational Psychology from PUCP and an MSc in Cognitive Science from the University of Edinburgh (UK). Currently, I'm pursuing a PhD in Neuroscience at the National University of Cordoba (Argentina).

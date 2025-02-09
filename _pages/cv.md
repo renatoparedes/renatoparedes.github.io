@@ -9,56 +9,59 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my full CV [here](/files/CV_Academic.pdf).
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Neuroscience, National University of Cordoba, 2025 (expected)
+* M.Sc. in Cognitive Science, The University of Edinburgh, 2019
+* B.A. in Psychology, Pontifical Catholic University of Peru, 2016
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* January 2023 - Present: Head of Computational Cognitive Neuroscience Lab
+  * Department of Psychology, Pontifical Catholic University of Peru
+  * Supervisor: Dr. Sheyla Blumen
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* December 2024 - April 2025: Research Assistant
+  * Max Planck Research Unit for Neurogenetics
+  * Duties included: Serial two-photon tomography image processing and analysis
+  * Supervisor: Dr. Mona Kahn
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* September 2019 - August 2021: Remote Research Assistant
+  * Computational Psychiatry Lab, The University of Edinburgh
+  * Supervisor: Dr. Peggy Series
+
+* May - September 2018: Data Analysis Consultant
+  * Computational Psychiatry Lab, The University of Edinburgh
+  * Supervisor: Dr. Gabriele Trovato
+
+
+Teaching experience
+======
+* January 2025 - Present: Assistant Professor
+  * Pontifical Catholic University of Peru
+
+* August 2022 - December 2024: Full-time Lecturer
+  * Pontifical Catholic University of Peru
+
+* January 2021 - July 2022: Adjunct Lecturer
+  * Pontifical Catholic University of Peru
+
+* June 2020 - July 2022: Teaching Assistant
+  * Neuromatch Academy, Inc.
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computational and statistical modelling of cognition and behaviour
+* Experimental research design for neuroscience and human-robot interaction
+* Scientific software development: Python, R, SQL, Linux
+
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

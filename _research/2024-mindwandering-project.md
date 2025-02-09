@@ -1,0 +1,13 @@
+---
+title: "Melodies of the Mind: Deciphering the impact of music on the regulation of affective and cognitive states of university students using EEG and NLP"
+collection: research
+type: "Research Project"
+excerpt: "We evaluate the influence of the affective component of musical pieces on episodes of mind-wandering using behavioral, electrophysiological and self-report measurements analyzed by Natural Language Processing. <br/><img src='/images/melodiesofmind.JPG'>"
+permalink: /research/2024-mindwandering-project
+---
+
+## Summary
+Mental health in the post-pandemic stage has not yet managed to recover previous levels, especially affecting the population of young university students in both the emotional and cognitive spheres. Intrusive negative thoughts have been recognized as a common factor in various psychopathologies, and are attributed to a mechanism known as spontaneous mind-wandering. It has been pointed out that music could play a regulatory role in this experience. Therefore, the purpose of this study is to evaluate the influence of the affective component of musical pieces on episodes of mind-wandering, spontaneous and deliberate, using behavioral, electrophysiological and self-report measurements analyzed by Natural Language Processing (NLP). Through an intra-subject experimental design, the effects of musical pieces with different emotional valences on the occurrence of mind-wandering, the intentionality of mind-wandering, the affective content of thoughts and performance in the SART sustained attention test will be compared. The sample, made up of young university students, will be exposed to experimental conditions of happy music, sad music and white noise. In addition, the relationship between depressive and anxious symptoms and ADHD traits with episodes of mind-wandering will be explored according to the affective component of the musical pieces. This multidimensional approach will allow us to advance in the understanding of how music influences mind-wandering, as well as its association with electrophysiological markers of this experience, which could reveal the explanatory mechanisms of this phenomenon. The urgent need to understand how music can modulate the experience of mind-wandering is highlighted, with important implications for the design of non-invasive and beneficial interventions that promote concentration and mental well-being, and that can be implemented in people's daily lives.
+
+## Funding
+Grant: Concurso Anual de Proyectos de Investigación 2024. Dirección de Fomento de Investigación (DFI), Pontifical Catholic University of Peru.
