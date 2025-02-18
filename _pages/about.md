@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Renato Paredes Venero"
+title: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
