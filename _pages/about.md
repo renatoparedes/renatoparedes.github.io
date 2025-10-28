@@ -15,4 +15,4 @@ My work has been published in Biological Psychiatry: Cognitive Neuroscience and 
 
 I was honored to receive the 2019 Cognitive Science MSc Dissertation Prize from the University of Edinburgh and the 2018 Excellence Scholarship “President of the Republic” from the Peruvian Ministry of Education.
 
-I hold a BA in Psychology with a major in Educational Psychology from PUCP and an MSc in Cognitive Science from the University of Edinburgh (UK). Currently, I'm a PhD candidate in Neuroscience at the National University of Cordoba (Argentina).
+I hold a PhD in Neuroscience from the National University of Cordoba (Argentina), a MSc in Cognitive Science from the University of Edinburgh (UK), and a BA in Psychology from PUCP.
