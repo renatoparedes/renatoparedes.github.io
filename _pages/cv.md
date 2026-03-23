@@ -20,14 +20,18 @@ Education
 
 Research experience
 ======
-* January 2023 - Present: Head of Computational Cognitive Neuroscience Lab
+* December 2025 - Present: Postdoctoral Researcher
+  * Max Planck Research Unit for Neurogenetics
+  * Supervisor: Dr. Mona Kahn and Dr. Peter Mombaerts
+
+* January 2023 - December 2025: Head of Computational Cognitive Neuroscience Lab
   * Department of Psychology, Pontifical Catholic University of Peru
   * Supervisor: Dr. Sheyla Blumen
 
 * December 2024 - April 2025: Research Assistant
   * Max Planck Research Unit for Neurogenetics
   * Duties included: Serial two-photon tomography image processing and analysis
-  * Supervisor: Dr. Mona Kahn
+  * Supervisor: Dr. Mona Kahn and Dr. Peter Mombaerts
 
 * September 2019 - August 2021: Remote Research Assistant
   * Computational Psychiatry Lab, The University of Edinburgh
