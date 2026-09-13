@@ -23,6 +23,9 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "Inspiration"
+    url: /inspiration/
+
   - title: "Blog Posts"
     url: /year-archive/
 
