@@ -20,7 +20,7 @@ Education
 
 Research experience
 ======
-* December 2025 - Present: Postdoctoral Researcher
+* December 2025 - November 2026: Postdoctoral Researcher
   * Max Planck Research Unit for Neurogenetics
   * Supervisor: Dr. Mona Kahn and Dr. Peter Mombaerts
 
